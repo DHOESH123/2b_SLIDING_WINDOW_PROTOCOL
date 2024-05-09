@@ -44,9 +44,11 @@ while True:
 ```
 ## OUTPUT
 ### CLIENT OUTPUT:
-![](./CLIENT.png)
+![client](https://github.com/DHOESH123/2b_SLIDING_WINDOW_PROTOCOL/assets/150319589/d59bbee6-9f71-4c06-91d2-a63b4e02a2d9)
+
 
 ### SERVER OUTPUT:
-![](./SERVER.png)
+![server](https://github.com/DHOESH123/2b_SLIDING_WINDOW_PROTOCOL/assets/150319589/466dead4-1b3e-42f4-97d5-b37495a02c1e)
+
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
